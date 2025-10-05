@@ -8,6 +8,7 @@ It automates the login functionality of the [VWO Application](https://app.vwo.co
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/bac3521b-2b24-42ba-ac09-be7e7cda29db" />
 
 </div>
+
 ---
 
 ##  🛠️   Technologies & Tools Used
@@ -19,7 +20,6 @@ It automates the login functionality of the [VWO Application](https://app.vwo.co
 - ✅ **TestNG 7.8** - Testing Framework
 - 📦 **Maven** - Build & Dependency Management Tool
 - 📊 **Allure TestNG 2.23** - Advanced Test Reporting
-
 
 ---
 
