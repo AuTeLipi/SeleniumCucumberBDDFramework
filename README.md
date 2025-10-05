@@ -1,5 +1,7 @@
-<div align='center'>   
+<div align='center'> 
+   
 # 🚀 Cucumber BDD Selenium TestNG Automation Project
+
 </div>
 
 This is a **test automation project** developed using **Java**, **Selenium WebDriver**, **Cucumber BDD**, and **TestNG**.  
