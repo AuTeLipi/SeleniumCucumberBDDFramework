@@ -1,6 +1,6 @@
 <div align='center'> 
    
-# 🚀 Cucumber BDD Selenium TestNG Automation Project
+# 🚀 SeleniumCucumberBDDProject
 
 </div>
 
