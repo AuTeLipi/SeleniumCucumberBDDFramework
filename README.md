@@ -1,9 +1,7 @@
 # 🚀 Cucumber BDD Selenium TestNG Automation Project
 
 This is a **test automation project** developed using **Java**, **Selenium WebDriver**, **Cucumber BDD**, and **TestNG**.  
-It automates the login functionality of the [VWO Application](https://app.vwo.com), testing both valid and invalid login scenarios.
-
-The project also uses **Allure Reports** for clean and visual test reporting.
+It automates the login functionality of the [VWO Application](https://app.vwo.com), testing both valid and invalid login scenarios. The project also uses **Allure Reports** for clean and visual test reporting.
 
 <div align='center'>
 
