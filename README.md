@@ -1,4 +1,11 @@
+<div align='center'>
+
 # Cucumber BDD Selenium TestNG Automation Project
+
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/bac3521b-2b24-42ba-ac09-be7e7cda29db" />
+
+</div>
+
 
 ## 📌 Overview
 
