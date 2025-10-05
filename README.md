@@ -1,0 +1,85 @@
+# Cucumber BDD Selenium TestNG Automation Project
+
+## 📌 Overview
+
+This is a **test automation project** developed using **Java**, **Selenium WebDriver**, **Cucumber BDD**, and **TestNG**.  
+It automates the login functionality of the [VWO Application](https://app.vwo.com), testing both valid and invalid login scenarios.
+
+The project also uses **Allure Reports** for clean and visual test reporting.
+
+---
+
+##  🛠️   Technologies & Tools Used
+
+- ☕ **Java 21** - Programming Language
+- 🌐 **Selenium WebDriver 4.10** - Web Automation Framework
+- 🥒 **Cucumber Java 7.13** - BDD Framework
+- 🧪 **Cucumber TestNG 7.13** - BDD Test Runner Integration
+- ✅ **TestNG 7.8** - Testing Framework
+- 📦 **Maven** - Build & Dependency Management Tool
+- 📊 **Allure TestNG 2.23** - Advanced Test Reporting
+
+
+---
+
+## ✅ Test Scenarios Covered
+
+| Scenario Type        | Description                                                             |
+|----------------------|-------------------------------------------------------------------------|
+| ✅ Valid Login        | Login using correct credentials — user lands on the **Dashboard** page |
+| ❌ Invalid Login      | Login using incorrect credentials — error message is verified          |
+
+---
+
+## 📋 Allure Report
+
+---
+
+## 🗂️ Project Structure
+```
+🧪 Cucumber_BDD_Selenium_TestNG_Automation/
+├── 🧾 src/
+│   └── 🧪 test/
+│       ├── 📁 java/
+│       │   └── 🧠 com/
+│       │       └── 🧬 LipiAutomation/
+│       │           ├── 🚀 runner/
+│       │           │   └── 📄 CucumberRunnerTests.java
+│       │           └── 🧩 step/
+│       │               └── 🎯 definitions/
+│       │                   └── 📄 VWOLoginPageDef.java
+│       └── 📚 resources/
+│           └── 📝 VWOLogin.feature
+│
+├── 🗂️ target/                         # TestNG and Cucumber reports (auto-generated)
+│
+├── 📊 allure-results/                 # Allure raw test results
+│
+├── ⚙️ pom.xml                         # Maven config with all dependencies
+│
+├── 📄 testng.xml                      # TestNG suite XML (if used)
+│
+└── 📝 README.md                       # Project documentation (this file!)
+```
+
+## How to Run Tests
+Follow these steps to clone, execute, and generate reports for the framework:
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   cd <project-folder>
+   ```
+   
+2. **Run tests using Maven**
+   ```bash
+   mvn clean test
+   ```
+   
+3. **Generate and serve Allure report**
+   ```bash
+   allure serve allure-results
+   ```
+
+
+
+
