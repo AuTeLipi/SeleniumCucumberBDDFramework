@@ -33,6 +33,12 @@ The project also uses **Allure Reports** for clean and visual test reporting.
 
 ## 📋 Allure Report
 
+<div align='center'>
+   
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/78a7a7cf-83b3-464d-9f4e-7242e9addb4c" />
+
+</div>
+
 ---
 
 ## 🗂️ Project Structure
