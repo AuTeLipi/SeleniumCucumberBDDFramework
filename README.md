@@ -40,6 +40,7 @@ It automates the login functionality of the [VWO Application](https://app.vwo.co
 
 </div>
 
+
 ---
 
 ## 🗂️ Project Structure
